@@ -1,0 +1,40 @@
+{
+  "name": "madeira",
+  "version": "1.0.0",
+  "description": "Basic log node messages module",
+  "main": "index.js",
+
+  "scripts": {
+    "test": "./node_modules/.bin/mocha --reporter spec"
+  },
+
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/m4rc069/madeira.git"
+  },
+
+  "keywords": [
+    "log",
+    "madeira",
+    "log",
+    "messages"
+  ],
+
+  "author": "m4rc0",
+  "license": "ISC",
+
+  "bugs": {
+    "url": "https://github.com/m4rc069/madeira/issues"
+  },
+
+  "homepage": "https://github.com/m4rc069/madeira#readme",
+
+  "dependencies": {
+    "ansi-styles": "^3.2.0"
+  },
+
+  "devDependencies": {
+    "chai": "^4.1.1",
+    "mocha": "^3.5.0"
+  }
+}
